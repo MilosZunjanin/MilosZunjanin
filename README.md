@@ -1,4 +1,4 @@
-## Senior Front-end Developer
+<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Talented+Senior+Front+End+Developer;Full+Stack+Web+Developer;Enthusiastic+Javascript+Developer;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
 
 Hello, Everyone. Thank you for having a look at my profile
 
@@ -23,12 +23,12 @@ Here is a list of what I've worked with:
   Smart Contracts(Solidity), Token Development based on Ethereum, Binance
 
 ```javascript
-const callEliteBy = (type) => {
+const callMeBy = (type) => {
 	switch(type) {
 		case: "Skype":
 			return "live:.cid.3c5d1d664d63a84e";
 		case: "gmail":
-			return "toptalent0107@gmil.com";
+			return "zunjaupwork@gmail.com";
 		default:
 			break;
 	}
